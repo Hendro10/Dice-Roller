@@ -379,7 +379,7 @@ Sekarang seharusnya aplikasi Dice Roller Anda sudah dapat berfungsi sepenuhnya.
 Guna mendownload kode untuk codelab yang sudah selesai, Anda dapat menggunakan perintah git ini:
 
 
-$ git clone https://github.com/google-developer-training/basic-android-kotlin-compose-training-dice-roller.git
+$ git clone https://github.com/Hendro10/Dice-Roller/edit/main.git
 Atau, Anda dapat mendownload repositori sebagai file ZIP, lalu mengekstraknya, dan membukanya di Android Studio.
 
 file_downloadDownload zip
