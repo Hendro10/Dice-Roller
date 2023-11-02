@@ -383,6 +383,7 @@ $ git clone https://github.com/Hendro10/Dice-Roller.git
 Atau, Anda dapat mendownload repositori sebagai file ZIP, lalu mengekstraknya, dan membukanya di Android Studio.
 
 https://github.com/Hendro10/Dice-Roller/blob/main/DiceRoller.zip
+atau file dengan ekstensi rar di google drive: https://drive.google.com/file/d/16Suz6f9PjHumytdEqvb7eo3gBgyJymDB/view?usp=sharing
 
 Jika Anda ingin melihat kode solusi, lihat di GitHub.
 
